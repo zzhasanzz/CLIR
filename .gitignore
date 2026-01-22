@@ -1,0 +1,6 @@
+*.jsonl
+*.csv
+*.json
+*.cfg
+__pycache__/
+venv/
