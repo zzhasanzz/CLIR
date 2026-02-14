@@ -73,7 +73,7 @@ This is fed into **LaBSE** (Language-Agnostic BERT Sentence Embedding). Since La
 
 ---
 
-## 💻 Example Output
+## Example Output
 **Input:** `"Dhaka আবহাওয়া"`
 
 1.  **Detected:** `bn` 
@@ -84,7 +84,7 @@ This is fed into **LaBSE** (Language-Agnostic BERT Sentence Embedding). Since La
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 *   `transformers`: For XLM-Roberta NER.
 *   `sentence-transformers`: For LaBSE embeddings.
 *   `deep-translator`: For query translation.

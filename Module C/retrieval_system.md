@@ -52,7 +52,7 @@ The retrieval process follows these logical steps:
 
 ---
 
-## 🚀 Performance Benchmarks (Average)
+##  Performance Benchmarks (Average)
 
 | Stage | Latency |
 | :--- | :--- |
@@ -64,7 +64,7 @@ The retrieval process follows these logical steps:
 
 ---
 
-## 💻 Usage Example
+## Usage Example
 
 ```python
 # Initialize the retriever
@@ -90,7 +90,7 @@ for r in results:
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 *   `rank_bm25`: For BM25 indices.
 *   `scikit-learn`: For TF-IDF and similarity metrics.
 *   `numpy`: For high-speed vector operations.
