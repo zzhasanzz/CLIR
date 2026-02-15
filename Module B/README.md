@@ -1,4 +1,3 @@
-This README provides a comprehensive overview of the **Cross-Lingual Information Retrieval (CLIR)** pipeline for Bangla and English, specifically focusing on the advanced **Query Processing** logic.
 
 ---
 

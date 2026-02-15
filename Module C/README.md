@@ -1,4 +1,4 @@
-#  Hybrid Cross-Lingual Retriever
+#  Hybrid Cross-Lingual Retriever (`see the retrieval_system_final.ipynb`)
 
 The **Retriever** module is designed to perform high-speed, high-accuracy searches by combining traditional lexical matching with modern semantic vector space modeling. It operates on a **Hybrid Architecture**, leveraging the strengths of multiple scoring algorithms to bridge the gap between English and Bangla.
 
